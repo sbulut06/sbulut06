@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sbulut06
 - 👀 I’m interested in AI, machine learning, python
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning 'Python'
 - 💞️ I would like to learn from your experience :)
 - 📫 How to reach me: https://www.selcukbulut.com/contact
 <!---
